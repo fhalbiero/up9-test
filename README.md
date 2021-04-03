@@ -2,7 +2,8 @@
 ## 📁 Purpose and Technology 
 ```bash
 
-    This application was created with the educational purpose, using Javascript, React, ContextAPI to state manager, react-components to styling and json-server to create a fake api 
+    This application was created with the educational purpose, using Javascript, React, 
+    ContextAPI to state manager, react-components to styling and json-server to create a fake api 
 
 ```
 
